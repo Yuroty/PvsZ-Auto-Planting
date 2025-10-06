@@ -110,11 +110,9 @@ Uses the pynput library (© M. H. van der Velden)
 
 🔗 Links
 
-GitHub repo: https://github.com/Yur...
+Alternative download: https://www.mediafire.com/file/htlivdkg08jal2w/PvsZ-Auto-Planting.zip/file
 
-Alternative download: https://www.mediafire....
-
-Farm setup reference: https://plantsvszombie...
+Farm setup reference: https://plantsvszombies.fandom.com/wiki/Money_guide
 
 
 
