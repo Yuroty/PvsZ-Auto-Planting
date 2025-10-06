@@ -2,6 +2,9 @@
 # It does NOT record keyboard text or send data anywhere.
 
 
+[Once You Recorded Your Clicks Make Sure To Add/Replace Them in PvZ-Auto-Planter]
+
+
 
 🌱 PvZ-Auto-Planter
 
