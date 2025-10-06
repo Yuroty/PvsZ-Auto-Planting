@@ -4,8 +4,6 @@
 
 🌱 PvZ-Auto-Planter
 
-This script records mouse clicks for game automation or testing.
-It does NOT record keyboard text or send data anywhere.
 
 IMPORTANT — Safety notice:
 
