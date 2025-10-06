@@ -43,7 +43,7 @@ You can tweak click timing and intervals directly in the script to match your sy
 
 📦 Releases / Non-Python users
 
-If you don’t have Python installed, download the zipped --onedir build attached to the latest GitHub Release. Unzip and run following the included README inside the zip (no Python required).
+If you don’t have Python installed, download the zipped --onedir build attached to the latest GitHub Release. Unzip and run.
 
 
 
@@ -89,7 +89,7 @@ markers.txt is human-readable — you can manually edit or swap marker files for
 
 🧾 Disclaimer
 
-I am not responsible for any data loss or unintended clicks caused by misuse of this code. Use at your own risk. Always test carefully before running in a live environment, "Zip-Password is PLAEX69.9"
+I am not responsible for any data loss or unintended clicks caused by misuse of this code. Use at your own risk. Always test carefully before running in a live environment, "Zip-Password is PLAEX69.9", You eventually going to need python to run the raw scripts anyway in case the PvZ-Auto-Planter doesn't work on your resolution or window size setup.
 
 
 ---
