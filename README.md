@@ -113,6 +113,7 @@ Alternative download: https://www.mediafire.com/file/htlivdkg08jal2w/PvsZ-Auto-P
 
 Farm setup reference: https://plantsvszombies.fandom.com/wiki/Money_guide
 
+https://youtu.be/04wnN7pfUo8?si=t19AjTmC6HHzq6Rb
 
 
 ---
