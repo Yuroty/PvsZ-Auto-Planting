@@ -92,7 +92,7 @@ markers.txt is human-readable — you can manually edit or swap marker files for
 
 🧾 Disclaimer
 
-I am not responsible for any data loss or unintended clicks caused by misuse of this code. Use at your own risk. Always test carefully before running in a live environment, "Zip-Password is PLAEX69.9
+I am not responsible for any data loss or unintended clicks caused by misuse of this code. Use at your own risk. Always test carefully before running in a live environment, "Zip-Password is PLAEX69.9"
 
 
 ---
