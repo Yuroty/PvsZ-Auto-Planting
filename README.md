@@ -1,3 +1,8 @@
+# This script records mouse clicks for game automation or testing.
+# It does NOT record keyboard text or send data anywhere.
+
+
+
 🌱 PvZ-Auto-Planter
 
 Automate your planting process in Plants vs. Zombies — or any other game that relies on mouse clicks!
