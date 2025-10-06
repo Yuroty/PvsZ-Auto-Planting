@@ -45,9 +45,6 @@ You can tweak click timing and intervals directly in the script to match your sy
 
 If you don’t have Python installed, download the zipped --onedir build attached to the latest GitHub Release. Unzip and run following the included README inside the zip (no Python required).
 
-> Recommended release workflow: put source in the repo and attach zipped onedir builds as Release assets (keeps main repo lightweight and transparent).
-
-
 
 
 ---
