@@ -23,8 +23,9 @@ Automate your planting process in Plants vs. Zombies — or any other game that 
 
 2. The recorder saves coordinates to markers.txt.
 
+3. Important: Once you finish recording, add or replace the numbers in markers.txt to the PvZ-Auto-Planter raw scripts, because you cannot modify any of the executable files.
 
-3. Run the Planter script to replay those saved positions automatically.
+4. Run the Planter script to replay those saved positions automatically.
 
 
 
