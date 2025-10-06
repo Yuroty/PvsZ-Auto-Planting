@@ -43,7 +43,7 @@ You can tweak click timing and intervals directly in the script to match your sy
 
 📦 Releases / Non-Python users
 
-If you don’t have Python installed, download the zipped --onedir build attached to the latest GitHub Release. Unzip and run.
+If you don’t have Python installed, download the zipped File attached to the latest GitHub Release. Unzip and run.
 
 
 
